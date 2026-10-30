@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Establishing in the full-stack area and tending to do databases<br>📚 I'm currently learning programation logic and OOP in java, SQL, html and <br>🎯 Goals: I want to work as a programer in a fintech company<br>🎲 Fun fact: I didn't knew any tech concept before I enter this new school in 2026</p>
+<p data-importer="text" align="left">✨ Establishing in the full-stack area and tending to do front-end<br>📚 I'm currently learning programation logic and OOP in java, SQL, html and css<br>🎯 Goals: I want to work as a programer in a fintech company<br>🎲 Fun fact: I didn't knew any tech concept before I enter this new school in 2026</p>
 
 ###
 
